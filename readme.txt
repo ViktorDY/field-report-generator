@@ -2,7 +2,7 @@
 
 An AI-powered web app that transforms rough construction site notes into structured, professional daily reports — instantly.
 
-Built as a portfolio project to explore how AI can simplify field documentation in the construction industry, inspired by companies like [Ditio](https://ditio.no) who are solving real problems for contractors across Norway.
+Built as a portfolio project to explore how AI can simplify field documentation in the construction industry.
 
 ---
 

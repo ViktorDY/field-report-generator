@@ -29,7 +29,7 @@ They can also click **"Make more professional"** to refine the tone with a secon
 | Backend | Node.js + Express |
 | AI | GitHub Models API (gpt-4o-mini) |
 
-The architecture is intentionally model-agnostic — swapping the AI provider requires changing only the backend API call. In a production context this would use Claude, which is what Ditio uses internally.
+The architecture is intentionally model-agnostic — swapping the AI provider requires changing only the backend API call. In a production context this can use paid models of Claude, Gemini, etc.
 
 ---
 
